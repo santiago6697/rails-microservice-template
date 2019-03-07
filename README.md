@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-It's very important that you have installed Ruby 2.3.0 for this project, you can use Rbenv or RVM if you're using another version of ruby for your global projects.
+<!-- It's very important that you have installed Ruby 2.3.0 for this project, you can use Rbenv or RVM if you're using another version of ruby for your global projects. -->
 
 ```
 Give examples
@@ -72,7 +72,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Santiago Vásquez** - *Initial work* - [Santiago6697](https://github.com/santiago6697)
+* **Esteban Cerón** - *Mentoring and support* - [Estebance](https://github.com/estebance)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
